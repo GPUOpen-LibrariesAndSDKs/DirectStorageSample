@@ -1,0 +1,9 @@
+[submodule "cauldron"]
+	path = libs/cauldron
+	url = ../Cauldron.git
+	branch = DirectStorageSample
+[submodule "media/Cauldron-Media"]
+	path = media/Cauldron-Media
+	url = ../Cauldron-Media.git
+	branch = DirectStorageSample
+

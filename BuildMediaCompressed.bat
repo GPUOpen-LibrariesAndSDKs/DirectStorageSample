@@ -1,0 +1,1 @@
+bin\TextureConverter.exe -configFile=bin\DirectStorageSample.json -compressionFormat=gdeflate -compressionLevel=default
